@@ -1,0 +1,23 @@
+{
+  "name": "callback-hell",
+  "version": "1.0.0",
+  "description": "The Problem with Callback Hell",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SeminVsevolod/callback-hell.git"
+  },
+  "keywords": [
+    "node.js",
+    "callback-hell"
+  ],
+  "author": "Semin Vsevolod",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SeminVsevolod/callback-hell/issues"
+  },
+  "homepage": "https://github.com/SeminVsevolod/callback-hell#readme"
+}
