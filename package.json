@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/SeminVsevolod/callback-hell/issues"
   },
-  "homepage": "https://github.com/SeminVsevolod/callback-hell#readme"
+  "homepage": "https://github.com/SeminVsevolod/callback-hell#readme",
+  "dependencies": {
+    "superagent": "^5.2.2"
+  }
 }
